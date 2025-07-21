@@ -1,0 +1,7 @@
+Object-Oriented Programming (OOP) in Java
+
+Object-Oriented Programming, or OOP, is a way of writing code that is based on the idea of objects. In Java, almost everything is treated as an object. These objects are created from something called a class, which is like a blueprint or a template. For example, if we have a class called "Car", we can create many car objects from it, each with different colors or speeds. This makes it easy to reuse code and organize it better.
+
+One of the main ideas in OOP is something called inheritance. This means we can create a new class that copies features from an existing class. It helps avoid writing the same code again and again. Another important concept is encapsulation, which means keeping some parts of the code private so they cannot be changed from outside. This protects the data and makes the program more secure. Java also uses polymorphism, which allows one thing to act in different ways. For example, we can have a method that works differently depending on what kind of object is using it. Lastly, abstraction is used to hide complex code and show only the important details, so the program becomes easier to understand and use.
+
+Java is a popular language for OOP because it is designed to support all these features very well. It helps programmers build bigger and better programs in a more organized way. With OOP in Java, it becomes easier to fix bugs, update code, and work on team projects.
